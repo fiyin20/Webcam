@@ -8,9 +8,16 @@ html {
   
   html {
     font-size: 10px;
-    background: #800085;
+    background: #800080;
   }
-  
+  button {
+    border: none;
+    border-radius: 40px;
+    padding: 15px 30px;
+    font-family: bold;
+    background: red;
+    font-size: 25px;
+  }
   .photobooth {
     background: white;
     max-width: 150rem;
